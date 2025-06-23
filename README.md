@@ -34,16 +34,16 @@
 <p align="left">
   <a href="https://linkedin.com/in/chirag-choudhary-64a420265" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kaggle.com/chiragchoudhary6" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/time_remanant_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/chirag_choudhary" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/chirag_choudhary_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
   </a>
